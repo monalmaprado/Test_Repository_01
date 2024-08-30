@@ -1,1 +1,2 @@
-select * from table1;
+select * from table1; -- I'm changing this
+-- this is a change
